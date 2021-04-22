@@ -3,5 +3,13 @@
 ### Курс "Python: Основы":
 
 №   | Project |  
---- | --- | 
-1 | [Вращение троек (tuple rotation)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/tuple_rotation.py) 
+--- | --- |
+1 | Фибоначчи
+2 | Сумма двоичных чисел
+3 | Физзбазз
+4 | Палиндром
+5 | Классификация отрезков 
+6 | [Вращение троек (tuple rotation)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/tuple_rotation.py)
+7 | Разница углов
+8 | Степени тройки
+9 | Фасад 
