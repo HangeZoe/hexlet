@@ -4,8 +4,8 @@
 
 №   | Project |  
 --- | --- |
-1 | Фибоначчи
-2 | Сумма двоичных чисел
+1 | [Фибоначчи (Fibonacci number)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/fib.py)
+2 | [Сумма двоичных чисел (Binary sum)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/binary_sum.py)
 3 | Физзбазз
 4 | Палиндром
 5 | Классификация отрезков 
