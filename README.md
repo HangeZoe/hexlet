@@ -6,8 +6,8 @@
 --- | --- |
 1 | [Фибоначчи (Fibonacci number)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/fib.py)
 2 | [Сумма двоичных чисел (Binary sum)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/binary_sum.py)
-3 | Физзбазз
-4 | Палиндром
+3 | [Физзбазз (FizzBuzz)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/fizzbuzz.py)
+4 | [Палиндром (Palindrome)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/palindrome.py)
 5 | Классификация отрезков 
 6 | [Вращение троек (tuple rotation)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/tuple_rotation.py)
 7 | Разница углов
