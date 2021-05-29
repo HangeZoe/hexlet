@@ -8,11 +8,11 @@
 2 | [Сумма двоичных чисел (Binary sum)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/binary_sum.py)
 3 | [Физзбазз (FizzBuzz)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/fizzbuzz.py)
 4 | [Палиндром (Palindrome)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/palindrome.py)
-5 | Классификация отрезков 
-6 | [Вращение троек (tuple rotation)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/tuple_rotation.py)
-7 | Разница углов
-8 | Степени тройки
-9 | Фасад
+5 | [Классификация отрезков (Line classification)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/line_classification.py)
+6 | [Вращение троек (Tuple rotation)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/tuple_rotation.py)
+7 | [Разница углов (Angle difference)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/angle_difference.py)
+8 | [Степени тройки (Power of three)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/power3.py)
+9 | [Фасад (Facade)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/facade.md)
 
 ### Курс "Python: Списки"
 
