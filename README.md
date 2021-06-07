@@ -18,23 +18,23 @@
 
 №   | Project |
 --- | --- |
-1 | Самая длинная подстрока
-2 | Возрастающая последовательность
-3 | Копилка
-4 | Умножение матриц
-5 | Зеркалирование матрицы
-6 | Обратная польская запись
-7 | Треугольник Паскаля
-8 | Чанкование
-9 | Вес Хэмминга
-10 | Список диапазонов
-11 | Сумма интервалов
-12 | Увеличение двумерного списка
-13 | Улитка
-14 | Сравнение версий
-15 | Чанкование потока
-16 | Длина последнего слова
-17 | Транспонирование матриц
+1 | [Самая длинная подстрока (Longest substring)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/longest_substring.py)
+2 | [Возрастающая последовательность (Ascending sequence)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/ascending_sequence.py)
+3 | [Копилка (Moneybox challenge)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/moneybox_challenge.py)
+4 | [Зеркалирование матрицы (Matrix mirroring challenge)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/matrix_mirroring_challenge.py)
+5 | [Обратная польская запись (Reverse polish notation)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/reverse_polish_notation.py)
+6 | [Умножение матриц (Matrix multiplication challenge)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/matrix_multiplication_challenge.py)
+7 | [Треугольник Паскаля (Pascal triangle)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/pascal_triangle.py)
+8 | [Чанкование (Chunk)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/chunk.py)
+9 | [Вес Хэмминга (Hamming weight)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/hamming_weight.py)
+10 | [Сумма интервалов (Sum of intervals challenge)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/sum_of_intervals_challenge.py)
+11 | [Список диапазонов (Summary ranges)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/summary_ranges.py)
+12 | [Увеличение двумерного списка (Enlarge image)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/enlarge_image.py)
+13 | [Улитка (Snail challenge)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/snail_challenge.py)
+14 | [Сравнение версий (Compare versions)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/compare_versions.py)
+15 | [Чанкование потока (Stream chunking)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/stream_chunking.py)
+16 | [Длина последнего слова (Length of last word)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/length_of_last_word.py)
+17 | [Транспонирование матриц (Matrix transposing)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/matrix_transposing.py)
 
 ### Курс "Python: Словари и Множества"
 
