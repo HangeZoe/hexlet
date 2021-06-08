@@ -1,6 +1,6 @@
 ## Испытания на сайте hexlet.io - Challenges on Hexlet.io
 
-### Курс "Python: Основы":
+### Курс "Python: Основы" - Course "Python: Basics"
 
 №   | Project |  
 --- | --- |
@@ -14,7 +14,7 @@
 8 | [Степени тройки (Power of three)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/power3.py)
 9 | [Фасад (Facade)](https://github.com/HangeZoe/hexlet/blob/master/python-basics/facade.md)
 
-### Курс "Python: Списки"
+### Курс "Python: Списки" - Course "Python: Lists"
 
 №   | Project |
 --- | --- |
@@ -36,7 +36,7 @@
 16 | [Длина последнего слова (Length of last word)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/length_of_last_word.py)
 17 | [Транспонирование матриц (Matrix transposing)](https://github.com/HangeZoe/hexlet/blob/master/python-lists/matrix_transposing.py)
 
-### Курс "Python: Словари и Множества"
+### Курс "Python: Словари и Множества" - Course "Python: Dictionaries and Sets"
 
 №   | Project |
 --- | --- |
@@ -48,7 +48,7 @@
 6 | Слияние словарей
 7 | Вычислитель различий
 
-### Курс "Python: Функции"
+### Курс "Python: Функции" - Course "Python: Functions"
 
 №   | Project |
 --- | --- |
