@@ -40,13 +40,13 @@
 
 №   | Project |
 --- | --- |
-1 | Преобразование DNA в RNA
-2 | Сборщик строки запроса
-3 | Римские цифры
-4 | Детектирование
-5 | Скрэббл
-6 | Слияние словарей
-7 | Вычислитель различий
+1 | [Преобразование DNA в RNA (To RNA)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/to_rna.py)
+2 | [Сборщик строки запроса (Query string)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/query_string.py)
+3 | [Римские цифры (To Roman)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/to_roman.py)
+4 | [Детектирование (Find where)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/find_where.py)
+5 | [Скрэббл (Scrabble)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/scrabble.py)
+6 | [Слияние словарей (Dictionaries merge)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/dictionaries_merge.py)
+7 | [Вычислитель различий (Operations)](https://github.com/HangeZoe/hexlet/blob/master/python-dicts/operations.py)
 
 ### Курс "Python: Функции" - Course "Python: Functions"
 
