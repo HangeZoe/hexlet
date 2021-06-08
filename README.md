@@ -52,16 +52,16 @@
 
 №   | Project |
 --- | --- |
-1 | Счётчик одногодок
-2 | Композиция функций
-3 | Увеличение двумерного списка в ФП-стиле
-4 | NRZI кодирование
-5 | Поиск ближайшего соседа
-6 | Конвертер цветов
-7 | IP конвертер
-8 | Интерактивные функции
-9 | Функции с проверкой типов
-10 | Фильтр анаграмм
-11 | Горизонтальная гистограмма
-12 | Валидатор IPv6
-13 | Одинаковая чётность
+1 | [Счётчик одногодок (Count by years)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/count_by_years.py)
+2 | [Композиция функций (Function composition)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/function_composition.py)
+3 | [Увеличение двумерного списка в ФП-стиле (Functional enlarge image)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/functional_enlarge_image.py)
+4 | [NRZI кодирование (NRZI)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/nrzi.py)
+5 | [Поиск ближайшего соседа (Find nearest)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/find_nearest.py)
+6 | [Конвертер цветов (RGB-HEX conversation)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/rgb_hex_conversion.py)
+7 | [IP конвертер (IP converter)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/ip2int32.py)
+8 | [Интерактивные функции (Interactive functions)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/interactive_functions.py)
+9 | [Функции с проверкой типов (Typechecked functions)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/typechecked_functions.py)
+10 | [Фильтр анаграмм (Filter anagrams)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/filter_anagrams.py)
+11 | [Горизонтальная гистограмма (Horizontal histogram)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/horizontal_histogram.py)
+12 | [Валидатор IPv6 (IPv6 validator)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/ipv6_validator.py)
+13 | [Одинаковая чётность (Same parity)](https://github.com/HangeZoe/hexlet/blob/master/python-functions/same_parity.py)
